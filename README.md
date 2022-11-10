@@ -1,4 +1,4 @@
-# DDD Hello
+# DDD Studio
 Desarrollando hello web app usando Domain Driven Development
 
 ## Notas
